@@ -2,3 +2,9 @@
 и смоделировать в ней процесс создания ИС.
 
 В дополнение нашей команде было предложено выполнить ознакомительные лабораторные работы в системе **MS Project**. 
+
+*Члены команды*:
++ https://github.com/AlexanderNaumov21
++ https://github.com/RomawkaR
++ https://github.com/Banan4k2002
++ https://github.com/vladislav-gh-dump
